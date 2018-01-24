@@ -23,7 +23,7 @@
 *  1 c. water
 
 ### Make the bread dough
-Mix the dry ingredients and oil, then blend in the watter until you get a good dough consistency. Let sit for 45-90 minutes until it's risen to almost double in size.
+Mix the dry ingredients and oil, then mix in the water until you get a good dough consistency. Let sit for 45-90 minutes until it's risen to almost double in size.
 
 ### Make the filling
 Start the meat and onions browning and add the seasonings. Stir frequently. When the beef is almost fully browned, add the cabbage and water. Cook until the cabbage is soft. Allow to cool.
