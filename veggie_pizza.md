@@ -32,3 +32,6 @@ Let it sit overnight in the refrigerator.
 ### Disclaimer from above sourcing note...
 
  * Let's be honest, the target market of the "Nebraska Lions Cookbook" and people who read recipes on GitHub have next to zero overlap, outside myself, so I'm not hurting anyone.
+ 
+ 
+ ![Veggie Pizza](img/veggie_pizza.jpg)

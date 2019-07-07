@@ -29,3 +29,5 @@ Chop up the cabbage into whatever size chunks you prefer, but smaller than "just
 1-2 hours before the roast is done, add the cabbage and poke it down into the juices.  
 
 When you can pull the roast apart with a fork, it's done. (It should be a multi-step process to get it out of the pot, because it just falls apart.)  
+
+![Pot Roast](img/pot_roast.jpg)
