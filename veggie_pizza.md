@@ -1,5 +1,5 @@
 # Not Jeff's Veggie Pizza
-(Copied from the Nebraska Lion's Cookbook. My mom's recipe, so, "fair use" or something.)
+(Copied from the Nebraska Lion's Cookbook. My mom's recipe, so, "fair use" or something.)*
 
 ### Ingredients
 
@@ -28,3 +28,7 @@ Bake at 350º for 8-12 minutes, just until it's /about/ to brown. Let cool compl
 While the "crust" is cooling, mix together the "sauce" ingredients. When the "crust" is cool, cover it with the "sauce", and then top it with the "toppings".  
 
 Let it sit overnight in the refrigerator.  
+
+### Disclaimer from above sourcing note...
+
+ * Let's be honest, the target market of the "Nebraska Lions Cookbook" and people who read recipes on GitHub have next to zero overlap, outside myself, so I'm not hurting anyone.
