@@ -12,6 +12,6 @@
 
 ### Preparation
 
-Mix all ingredients and place in a container in the refrigertor for at least 12 hours.  
+Mix all ingredients and place in a container in the refrigerator for at least 12 hours.  
 
 Broil in cast iron for 4-6 minutes, flip, cook another 4-6 minutes. (Or until done. YMMV)  
